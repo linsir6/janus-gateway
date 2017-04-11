@@ -1,5 +1,7 @@
-Janus WebRTC Gateway
+Janus WebRTC Gateway	
 ====================
+
+最近在看的一个后端，是用c写的流媒体的后端，感觉非常nice
 
 Janus is an open source, general purpose, WebRTC gateway designed and
 developed by [Meetecho](http://www.meetecho.com). This version
